@@ -1,1 +1,2 @@
-# birthday-wish-bn
+# Birthday-Wish
+A customizable birthday wish webpage.
